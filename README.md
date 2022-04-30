@@ -1,13 +1,13 @@
-👋 Hi, I’m @patmcgtx from Austin, Texas. 🌮🤠
+Hi, I’m @patmcgtx from Austin, Texas. 🌮
 
-👀 I’m interested in -oriented development (Swift, Xcode, iOS).
+I’m interested in -oriented development (Swift, Xcode, iOS).
 
-🌱 I’m currently learning macOS development and SwiftUI.
+I’m currently learning macOS development and SwiftUI. 🧑🏻‍💻
 
-🧑🏻‍💻 Check out my [software development notes](https://patmcg.com/category/software-dev/) on [my personal blog](https://patmcg.com/).
+Check out my [software development notes](https://patmcg.com/category/software-dev/) on [my blog](https://patmcg.com/).
 
-📸 Just for fun, sometimes I put some [photos on Instagram](https://www.instagram.com/patmcgtx/).  
+Just for fun, sometimes I put some [photos on Instagram](https://www.instagram.com/patmcgtx/). 📸
 
-🎸 I also like to [make music](https://patmcg.com/category/songs/) when time allows.  You could call me a struggling musician. 😛
+I also like to [make music](https://patmcg.com/category/songs/) when time allows. 🎸  You could call me a very struggling musician. 🤷🏻‍♂️
 
-👨🏻‍🏭 My professional profile is on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
+My professional profile is on [LinkedIn](https://www.linkedin.com/in/patmcgtx/). 👨🏻‍🏭
