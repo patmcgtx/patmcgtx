@@ -6,7 +6,7 @@
 
 🧑🏻‍💻 Check out my [software development notes](https://patmcg.com/category/software-dev/) on [my personal blog](https://patmcg.com/).
 
-📸 Just for fun, see my [photos on Instagram](https://www.instagram.com/patmcgtx/).  
+📸 Just for fun, sometimes I put some [photos on Instagram](https://www.instagram.com/patmcgtx/).  
 
 🎸 I also like to [make music](https://patmcg.com/category/songs/) when time allows.  You could call me a struggling musician. 😛
 
