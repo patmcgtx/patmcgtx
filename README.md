@@ -10,4 +10,4 @@ Just for fun, sometimes I put [photos on Instagram](https://www.instagram.com/pa
 
 I also like to [make music](https://patmcg.com/category/songs/) when time allows. 🎸  You could call me a struggling musician. 🤷🏻‍♂️
 
-My professional profile is on [LinkedIn](https://www.linkedin.com/in/patmcgtx/). 👨🏻‍🏭
+I started making iOS apps [on my own](https://www.roundtripsoftware.com/news/) a while back and have since been lucky enough to make apps for [big companies](https://www.linkedin.com/in/patmcgtx/). 👨🏻‍🏭
