@@ -1,5 +1,5 @@
-I’m @patmcgtx from Austin, Texas. 
-
-I’m most interested in -oriented development (Swift, Xcode, iOS).
+Interested mostly in  development (Swift, Xcode, iOS). 📍 Austin, Texas.
 
 Check out my [software development notes](https://patmcg.com/category/software-dev/) on my personal blog.
+
+I also like to [take pictures](https://patmcg.com/category/photos/) 📸 and [make music](https://patmcg.com/category/songs/). 🎤
