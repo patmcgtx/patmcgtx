@@ -1,4 +1,4 @@
-Interested mostly in  development (Swift, Xcode, iOS) plus some practical scripting. 📍 [Austin, Texas](https://patmcg.com/category/austin/).
+Interested mostly in  development (Swift, Xcode, iOS). 📍 [Austin, Texas](https://patmcg.com/category/austin/).
 
 Check out my occasional [software development notes](https://patmcg.com/category/software-dev/).
 
