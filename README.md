@@ -1,5 +1,5 @@
-Interested mostly in  development (Swift, Xcode, iOS). 📍 Austin, Texas.
+Interested mostly in  development (Swift, Xcode, iOS). 📍 [Austin, Texas](https://patmcg.com/category/austin/).
 
-Check out my [software development notes](https://patmcg.com/category/software-dev/) on my personal blog.
+Check out my occasional [software development notes](https://patmcg.com/category/software-dev/).
 
-When not [raising my kids](https://mcgkids.blog), I also like to [take pictures](https://patmcg.com/category/photos/) 📸 and [make music](https://patmcg.com/category/songs/). 🎤
+I also like to [take pictures](https://patmcg.com/category/photos/) 📸 and [make music](https://patmcg.com/category/songs/). 🎤
