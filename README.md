@@ -1,4 +1,6 @@
-Howdy!  I'm Patrick.  I'm mostly interested in iOS and Apple  development (Swift, Xcode, iOS). I have a history in web, backend, and shell/automation as well.
+Howdy!  I'm Patrick.
+
+I'm mostly interested in iOS and Apple  development (Swift, Xcode, iOS). I have a history in web, backend, and shell/automation as well.
 
 I've been making mobile apps for big companies for a while now - [see LinkedIn](https://www.linkedin.com/in/patmcgtx/).  
 
