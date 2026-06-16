@@ -1,8 +1,10 @@
-Howdy!  I'm Patrick.  I'm a devceloper in Austin, Texas, mostly interested in iOS / Apple  development (Swift, Xcode, iOS). 
+Howdy!  I'm Patrick, a devceloper in Austin, Texas.
 
-I've been making mobile apps for big companies for a while now - [see LinkedIn](https://www.linkedin.com/in/patmcgtx/).  
+I'm mostly interested in iOS / Apple  development (Swift, Xcode, iOS). 
 
 This account has some of my own [active projects](https://github.com/patmcgtx/mapplus) as well as some early solo apps I did as [Round Trip Software](https://roundtripsoftware.wordpress.com) to learn iOS development.  I used to keep a little [software blog](https://mentalbreaktown.blog/category/software-dev/) but am putting my energy into active development now.
+
+But I've been making mobile apps [for big companies](https://www.linkedin.com/in/patmcgtx/) for a while now.  
 
 And I'm not _just_ a coder.
 
