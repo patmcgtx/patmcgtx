@@ -10,6 +10,8 @@ I have a history in web, backend, and shell/automation as well.
 
 ## But wait, there's more...
 
-I also like to [take pictures](https://www.instagram.com/patmcgtx/) 📸 and [make music](https://mentalbreaktown.blog/category/songs/), sometimes posting to Spotify [with a friend](https://open.spotify.com/artist/77FkXB8I6EHZS9LGYNk9Gg?si=Uztv28m-SrKz3QqKzlCa7Q) and sometimes [on my own](https://open.spotify.com/artist/15XYvnCXBXoPEda8HLcJH2?si=HtabdyKyTumdmYjwmwSsjw). 🎤 
+I'm not _just_ a coder.
+
+I also like to [take pictures](https://www.instagram.com/patmcgtx/) 📸 and [make music](https://mentalbreaktown.blog/category/songs/), sometimes posting to Spotify [with a friend](https://open.spotify.com/artist/77FkXB8I6EHZS9LGYNk9Gg?si=Uztv28m-SrKz3QqKzlCa7Q) and sometimes [on my own](https://open.spotify.com/artist/15XYvnCXBXoPEda8HLcJH2?si=HtabdyKyTumdmYjwmwSsjw). 🎤
 
 I'm a [proud dad](https://mcgkids.blog), but they're just about grown up now.
