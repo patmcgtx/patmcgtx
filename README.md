@@ -1,4 +1,4 @@
-Interested mostly in  development (Swift, Xcode, iOS). 
+Howdy!  I'm Patrick.  I'm mostly interested in  development (Swift, Xcode, iOS). 
 
 I've been making mobile apps for big companies for a while now - [see LinkedIn](https://www.linkedin.com/in/patmcgtx/).  
 
