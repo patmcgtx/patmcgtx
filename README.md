@@ -4,9 +4,9 @@ I'm a devceloper in Austin, Texas, mostly interested in iOS / Apple  developm
 
 I've been making mobile apps for big companies for a while now - [see LinkedIn](https://www.linkedin.com/in/patmcgtx/).  
 
-I have a history in web, backend, and shell/automation as well.
-
 This account has some of my own [active projects](https://github.com/patmcgtx/mapplus) as well as some early solo apps I did as [Round Trip Software](https://roundtripsoftware.wordpress.com) to learn iOS development.  I used to keep a little [software blog](https://mentalbreaktown.blog/category/software-dev/) but am putting my energy into active development now.
+
+I have a history in web, backend, and shell/automation as well.
 
 ## But wait, there's more...
 
