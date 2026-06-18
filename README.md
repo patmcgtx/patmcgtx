@@ -10,7 +10,7 @@ I used to keep a little [software blog](https://mentalbreaktown.blog/category/so
 
 👉 More info on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
 
-### I'm not just a coder.
+### And I'm not just a coder.
 
 I also like to [take pictures](https://www.instagram.com/patmcgtx/) 📸 and [make music](https://mentalbreaktown.blog/category/songs/), sometimes posting to Spotify [with a friend](https://open.spotify.com/artist/77FkXB8I6EHZS9LGYNk9Gg?si=Uztv28m-SrKz3QqKzlCa7Q) and sometimes [on my own](https://open.spotify.com/artist/15XYvnCXBXoPEda8HLcJH2?si=HtabdyKyTumdmYjwmwSsjw). 🎤
 
