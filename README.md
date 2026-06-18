@@ -1,14 +1,16 @@
-Howdy!  I'm Patrick, a mobile developer in Austin, Texas.
+## Howdy!  I'm Patrick, a mobile developer in Austin, Texas.
 
-I'm mostly interested in iOS / Apple development (Swift, Xcode, iOS). I've been making mobile apps [for big companies](https://www.linkedin.com/in/patmcgtx/) for a while now.
+This is my home for personal proejcts, old and new.
 
-You can find my most current [side project](https://github.com/patmcgtx/mapplus) that digs into SwiftUI, SwiftData, MapKit, CoreLocation, and Swift Testing.
+See my most current [side project](https://github.com/patmcgtx/mapplus) that digs into SwiftUI, SwiftData, MapKit, CoreLocation, and Swift Testing.
 
-You'll also see some early apps I did as [Round Trip Software](https://roundtripsoftware.wordpress.com).  I used to keep a little [software blog](https://mentalbreaktown.blog/category/software-dev/) but am putting my energy into active development now.
+You can also find some early apps I did as [Round Trip Software](https://roundtripsoftware.wordpress.com) going back to 2011.
 
-I also like to play around with [useful scripts](https://github.com/patmcgtx/scrivener2dayone) to automate my creative projects.
+I used to keep a little [software blog](https://mentalbreaktown.blog/category/software-dev/) but am putting my energy into active development now.
 
-And I'm not _just_ a coder.
+👉 More info on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
+
+### I'm not just a coder.
 
 I also like to [take pictures](https://www.instagram.com/patmcgtx/) 📸 and [make music](https://mentalbreaktown.blog/category/songs/), sometimes posting to Spotify [with a friend](https://open.spotify.com/artist/77FkXB8I6EHZS9LGYNk9Gg?si=Uztv28m-SrKz3QqKzlCa7Q) and sometimes [on my own](https://open.spotify.com/artist/15XYvnCXBXoPEda8HLcJH2?si=HtabdyKyTumdmYjwmwSsjw). 🎤
 
