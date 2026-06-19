@@ -6,7 +6,7 @@ Check out my most current [side project](https://github.com/patmcgtx/mapplus) th
 
 You can also find some early apps I did as [Round Trip Software](https://roundtripsoftware.wordpress.com) going back to 2011.
 
-👉 More info on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
+👉 More info about me profesionally on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
 
 ### And I'm not just a coder.
 
