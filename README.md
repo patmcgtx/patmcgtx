@@ -1,12 +1,12 @@
 ## Howdy!  I'm Patrick, a mobile developer in Austin, Texas.
 
-This is my home for personal proejcts, old and new.
+I've been making iOS apps professionally since 2014.  This is my home for personal projects, old and new.
 
 Check out my current [side project](https://github.com/patmcgtx/mapplus) that digs into SwiftUI, SwiftData, MapKit, CoreLocation, and Swift Testing.
 
-You can also find some early apps I did as [Round Trip Software](https://roundtripsoftware.wordpress.com) going back to 2011.
+See [Round Trip Software](https://roundtripsoftware.com) for some early apps I made going back to 2011.
 
-👉 More info about me profesionally on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
+👉 More info about me professionally on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
 
 ### And I'm not just a coder.
 
