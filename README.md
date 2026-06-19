@@ -2,7 +2,7 @@
 
 This is my home for personal proejcts, old and new.
 
-Check out my most current [side project](https://github.com/patmcgtx/mapplus) that digs into SwiftUI, SwiftData, MapKit, CoreLocation, and Swift Testing.
+Check out my current [side project](https://github.com/patmcgtx/mapplus) that digs into SwiftUI, SwiftData, MapKit, CoreLocation, and Swift Testing.
 
 You can also find some early apps I did as [Round Trip Software](https://roundtripsoftware.wordpress.com) going back to 2011.
 
