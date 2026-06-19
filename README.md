@@ -6,6 +6,8 @@ Check out my current [side project](https://github.com/patmcgtx/mapplus) that di
 
 See [Round Trip Software](https://roundtripsoftware.com) for some early apps I made going back to 2011.
 
+In reent years, I’ve been focused on making apps full-time for companies like [Whole Foods Market](https://apps.apple.com/us/app/whole-foods-market/id320029256) and [Charles Schwab](https://apps.apple.com/us/app/schwab-mobile/id407358186).
+
 👉 More info about me professionally on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
 
 ### And I'm not just a coder.
