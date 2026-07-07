@@ -1,4 +1,4 @@
-## Howdy!  I'm Patrick, a mobile developer in Austin, Texas.
+## Hi!  I'm Patrick, a mobile developer in Austin, Texas.
 
 I've been making iOS apps professionally since 2014.  This is my home for personal projects, old and new.
 
