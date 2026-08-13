@@ -5,7 +5,7 @@ I've been making iOS apps professionally since 2014. This is my home for persona
 ### Current projects
 * My [maps project](https://github.com/patmcgtx/mapplus) that gets hands-on with SwiftUI, SwiftData, MapKit, CoreLocation, and Swift Testing.
 * My [daily flight planner](https://github.com/patmcgtx/daily-flight-plan), a fully AI-assisted project.
-* A [concurrency lab](https://github.com/patmcgtx/concurrency-dashboard) for playing with Combine and Swift concurrency.
+* A [concurrency lab](https://github.com/patmcgtx/concurrency-dashboard) for experimenting with Swift modern, structured concurrency and Combine.
 
 Plenty of older projects below going back to the Objective-C days!
 
