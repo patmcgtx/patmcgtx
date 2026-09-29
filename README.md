@@ -1,6 +1,6 @@
 ## Hi! I'm Patrick, a mobile developer in Austin, Texas.
 
-I've been making iOS apps professionally since 2014. This is my home for personal projects, old and new.
+I've been making iOS apps full-time since 2014. This is my home for personal projects, old and new.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
 
