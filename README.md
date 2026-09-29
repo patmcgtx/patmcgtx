@@ -18,5 +18,3 @@ Older projects go all the way back to the Objective-C days, such as:
 ### And I'm not just a coder.
 
 I also like to [take pictures](https://www.instagram.com/patmcgtx/) 📸 and [make music](https://mentalbreaktown.blog/category/songs/), with songs on Spotify [with a friend](https://open.spotify.com/artist/77FkXB8I6EHZS9LGYNk9Gg?si=Uztv28m-SrKz3QqKzlCa7Q) and [on my own](https://open.spotify.com/artist/15XYvnCXBXoPEda8HLcJH2?si=HtabdyKyTumdmYjwmwSsjw). 🎤
-
-I'm a [proud dad](https://mcgkids.blog) to two nearly grown kids.
