@@ -2,6 +2,8 @@
 
 I've been making iOS apps professionally since 2014. This is my home for personal projects, old and new.
 
+You can also find me on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
+
 ### Current projects
 * A [maps app](https://github.com/patmcgtx/mapplus) that gets hands-on with SwiftUI, SwiftData, MapKit, CoreLocation, and Swift Testing.
 * A [daily flight planner app](https://github.com/patmcgtx/daily-flight-plan) that helps you get the most out of your days; developed using an AI-first approach.
@@ -9,9 +11,9 @@ I've been making iOS apps professionally since 2014. This is my home for persona
 
 ### Older projects
 
-And plenty of older projects below going all the way back to the Objective-C days, such as [an early augmented-reality app]([url](https://github.com/patmcgtx/santa-app)) for kids.
-
-You can also find me on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
+Older projects go all the way back to the Objective-C days, such as:
+* An early, fun [augmented-reality app](https://github.com/patmcgtx/santa-app) from 2011.
+* A [kids bedtime app](https://github.com/patmcgtx/bedtime-balloons) full of animations and customizations, circa 2014.
 
 ### And I'm not just a coder.
 
