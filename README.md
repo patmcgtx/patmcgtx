@@ -14,6 +14,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
 Older projects go all the way back to the Objective-C days, such as:
 * An early, fun [augmented-reality app](https://github.com/patmcgtx/santa-app) from 2011.
 * A [kids bedtime app](https://github.com/patmcgtx/bedtime-balloons) full of animations and customizations, circa 2014.
+* A [math flash cards app](https://github.com/patmcgtx/math-cards), my first Swift project, from 2015.
 
 ### And I'm not just a coder.
 
