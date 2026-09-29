@@ -7,7 +7,9 @@ I've been making iOS apps professionally since 2014. This is my home for persona
 * A [daily flight planner app](https://github.com/patmcgtx/daily-flight-plan) that helps you get the most out of your days; developed using an AI-first approach.
 * A [concurrency lab](https://github.com/patmcgtx/concurrency-dashboard) for experimenting with Swift modern, structured concurrency and Combine.
 
-Plenty of older projects below going back to the Objective-C days!
+### Older projects
+
+And plenty of older projects below going all the way back to the Objective-C days, such as [an early augmented-reality app]([url](https://github.com/patmcgtx/santa-app)) for kids.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
 
