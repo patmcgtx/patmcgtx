@@ -5,7 +5,7 @@ I've been making iOS apps full-time since 2014. This is my home for personal pro
 You can also find me on [LinkedIn](https://www.linkedin.com/in/patmcgtx/).
 
 ### Current projects
-* A [daily flight planner app](https://github.com/patmcgtx/daily-flight-plan) that helps you get the most out of your days; developed using an AI-first approach.
+* A [daily flight planner app](https://github.com/patmcgtx/daily-flight-plan) developed using an AI-first approach. Helps you get the most out of your days.
 * A [personal maps app](https://github.com/patmcgtx/mapplus) that gets hands-on with SwiftUI, SwiftData, MapKit, CoreLocation, and Swift Testing.
 * A [concurrency lab](https://github.com/patmcgtx/concurrency-dashboard) for experimenting with Swift modern, structured concurrency and Combine.
 
