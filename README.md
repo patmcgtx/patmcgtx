@@ -63,6 +63,6 @@ A math flash cards app, and my first Swift project.<br>
 
 ## More
 
-[All repositories](https://github.com/patmcgtx?tab=repositories) · TODO: demo videos link
+[All repositories](https://github.com/patmcgtx?tab=repositories)
 
 Beyond code: I [take pictures](https://www.instagram.com/patmcgtx/) and [make music](https://mentalbreaktown.blog/category/songs/).
