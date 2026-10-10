@@ -11,20 +11,17 @@ I turn ambiguous ideas into working apps, from an augmented-reality app in 2011 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/patmcgtx/daily-flight-plan"><img src="assets/daily-flight-plan.gif" width="220" alt="Daily Flight Plan demo"></a><br>
-<b>Daily Flight Plan</b><br>
+<a href="https://github.com/patmcgtx/daily-flight-plan"><b>Daily Flight Plan</b></a><br>
 A daily planning app built with an AI-first approach, to help you get the most out of your days.<br>
 <sub>SwiftUI · SwiftData · CloudKit · Foundation Models</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/patmcgtx/mapplus"><img src="assets/mapplus.gif" width="220" alt="Map Plus demo"></a><br>
-<b>Map Plus</b><br>
+<a href="https://github.com/patmcgtx/mapplus"><b>Map Plus</b></a><br>
 A personal maps app, hand-coded as an architecture sandbox.<br>
 <sub>SwiftUI · SwiftData · MapKit · Swift Testing</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/patmcgtx/concurrency-dashboard"><img src="assets/concurrency-dashboard.gif" width="220" alt="Concurrency Dashboard demo"></a><br>
-<b>Concurrency Dashboard</b><br>
+<a href="https://github.com/patmcgtx/concurrency-dashboard"><b>Concurrency Dashboard</b></a><br>
 A lab for modern Swift concurrency, streaming Combine publishers into async/await.<br>
 <sub>Swift Concurrency · Combine</sub>
 </td>
