@@ -33,20 +33,20 @@ A lab for modern Swift concurrency, streaming Combine publishers into async/awai
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/patmcgtx/santa-app"><img src="https://img.youtube.com/vi/QVSe75pNovg/hqdefault.jpg" width="220" alt="Santa AR app demo video"></a><br>
+<a href="https://github.com/patmcgtx/santa-app/blob/master/README.md"><img src="https://img.youtube.com/vi/QVSe75pNovg/hqdefault.jpg" width="220" alt="Santa AR app demo video"></a><br>
 <b>Santa AR (2011)</b><br>
 My first iPhone app: an augmented-reality Santa tracker, years before ARKit. Point your phone and find Santa on screen.<br>
 <sub>Objective-C · UIKit · cocos2d</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/patmcgtx/bedtime-balloons"><img src="https://img.youtube.com/vi/P_HLeBcKXtE/hqdefault.jpg" width="220" alt="Bedtime Balloons demo video"></a><br>
+<a href="https://github.com/patmcgtx/bedtime-balloons/blob/master/README.md"><img src="https://img.youtube.com/vi/P_HLeBcKXtE/hqdefault.jpg" width="220" alt="Bedtime Balloons demo video"></a><br>
 <b>Bedtime Balloons (2014)</b><br>
 A gamified kids' bedtime app full of animations and customizations.<br>
 <sub>Objective-C · cocos2d</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/patmcgtx/math-cards"><img src="https://img.youtube.com/vi/CShJdcc51pg/hqdefault.jpg" width="220" alt="Math Cards demo video"></a><br>
-<b>Math Cards (2015)</b><br>
+<a href="https://github.com/patmcgtx/math-cards/blob/master/README.md"><img src="https://img.youtube.com/vi/CShJdcc51pg/hqdefault.jpg" width="220" alt="Math Cards demo video"></a><br>
+<b>Continuous Math Cards (2015)</b><br>
 A math flash cards app, and my first Swift project.<br>
 <sub>Swift</sub>
 </td>
@@ -58,11 +58,9 @@ A math flash cards app, and my first Swift project.<br>
 
 | | |
 |---|---|
-| **Charles Schwab** · 2020–present <br>Senior iOS Engineer / Tech Lead | Leading iOS for a mobile team in a 500,000+ line codebase: modernizing architecture with SwiftUI and async/await, building features end to end (stock option chains with live-streaming quotes, a new-client welcome experience), and mentoring engineers.<br><sub>Swift · SwiftUI · UIKit · Swift Concurrency</sub> |
-| **Whole Foods Market / Amazon** · 2014–2020<br>Senior iOS Engineer | Lead iOS developer on the Whole Foods side of a major app rewrite: shopping list, digital coupons, loyalty program, user registration and the Apple Watch app.<br><sub>Swift · Objective-C · Apple Watch</sub> |
+| **Charles Schwab** · 2020–present <br/>[App Store](https://apps.apple.com/us/app/schwab-mobile/id407358186) | Leading iOS for a mobile team in a 500,000+ line codebase: modernizing architecture with SwiftUI and async/await, building features end to end (stock option chains with live-streaming quotes, a new-client welcome experience), and mentoring engineers.<br><sub>Swift · SwiftUI · UIKit · Swift Concurrency</sub> |
+| **Whole Foods Market / Amazon** · 2014–2020 <br/> [App Store](https://apps.apple.com/us/app/whole-foods-market/id320029256) | Lead iOS developer on the Whole Foods side of a major app rewrite: shopping list, digital coupons, loyalty program, user registration and the Apple Watch app.<br><sub>Swift · Objective-C · Apple Watch</sub> |
 
 ## More
-
-[All repositories](https://github.com/patmcgtx?tab=repositories)
 
 Beyond code: I [take pictures](https://www.instagram.com/patmcgtx/) and [make music](https://mentalbreaktown.blog/category/songs/).
