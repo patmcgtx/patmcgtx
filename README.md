@@ -11,8 +11,7 @@ I turn ambiguous ideas into working apps, from an augmented-reality app in 2011 
 <table>
 <tr>
 <td width="45%" align="center" valign="middle">
-<a href="https://github.com/patmcgtx/daily-flight-plan"><img src="assets/daily-flight-plan-light.png" width="180" alt="Daily Flight Plan, light mode"></a>
-<a href="https://github.com/patmcgtx/daily-flight-plan"><img src="assets/daily-flight-plan-dark.png" width="180" alt="Daily Flight Plan, dark mode"></a>
+<a href="https://github.com/patmcgtx/daily-flight-plan"><img src="assets/daily-flight-plan-light.png" width="220" alt="Daily Flight Plan, light mode"></a>
 </td>
 <td width="55%" valign="middle">
 <a href="https://github.com/patmcgtx/daily-flight-plan"><b>Daily Flight Plan</b></a><br>
