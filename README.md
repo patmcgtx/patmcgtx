@@ -10,17 +10,27 @@ I turn ambiguous ideas into working apps, from an augmented-reality app in 2011 
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
-<a href="https://github.com/patmcgtx/daily-flight-plan"><b>Daily Flight Plan</b></a><br>
-A daily planning app built with an AI-first approach, to help you get the most out of your days.<br>
-<sub>SwiftUI · SwiftData · CloudKit · Foundation Models</sub>
+<td width="45%" align="center" valign="middle">
+<a href="https://github.com/patmcgtx/daily-flight-plan"><img src="assets/daily-flight-plan-light.png" width="180" alt="Daily Flight Plan, light mode"></a>
+<a href="https://github.com/patmcgtx/daily-flight-plan"><img src="assets/daily-flight-plan-dark.png" width="180" alt="Daily Flight Plan, dark mode"></a>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="55%" valign="middle">
+<a href="https://github.com/patmcgtx/daily-flight-plan"><b>Daily Flight Plan</b></a><br>
+A daily planning app that grew out of a Day One template I refined for years. Sketched in Figma, built AI-first with a Claude agent, and redesigned as a paper flight plan.<br><br>
+<sub>SwiftUI · SwiftData · CloudKit · Foundation Models</sub><br><br>
+<a href="https://github.com/patmcgtx/daily-flight-plan/blob/main/DailyFlightPlan/docs/story.md">Read the story &rarr;</a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/patmcgtx/mapplus"><b>Map Plus</b></a><br>
 A personal maps app, hand-coded as an architecture sandbox.<br>
 <sub>SwiftUI · SwiftData · MapKit · Swift Testing</sub>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/patmcgtx/concurrency-dashboard"><b>Concurrency Dashboard</b></a><br>
 A lab for modern Swift concurrency, streaming Combine publishers into async/await.<br>
 <sub>Swift Concurrency · Combine</sub>
