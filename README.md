@@ -26,7 +26,7 @@ A daily planning app that grew out of a Day One template I refined for years. Sk
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/patmcgtx/mapplus"><b>Map Plus</b></a><br>
-A personal maps app, hand-coded as an architecture sandbox.<br>
+Started as a simple maps app for a friend's kids, and became my hand-coded architecture sandbox.<br>
 <sub>SwiftUI · SwiftData · MapKit · Swift Testing</sub>
 </td>
 <td width="50%" align="center" valign="top">
