@@ -24,12 +24,21 @@ A daily planning app that grew out of a Day One template I refined for years. Sk
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="55%" valign="middle">
 <a href="https://github.com/patmcgtx/mapplus"><b>Map Plus</b></a><br>
-A personal maps app, hand-coded as an architecture sandbox.<br>
-<sub>SwiftUI · SwiftData · MapKit · Swift Testing</sub>
+Started as a simple maps app for a friend's kids, and became my hand-coded architecture sandbox.<br><br>
+<sub>SwiftUI · SwiftData · MapKit · Foundation Models</sub><br><br>
+<a href="https://github.com/patmcgtx/mapplus">See the project &rarr;</a>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="45%" align="center" valign="middle">
+<a href="https://github.com/patmcgtx/mapplus"><img src="assets/mapplus.png" width="220" alt="Map Plus in the 8-bit theme, dark mode"></a>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
 <a href="https://github.com/patmcgtx/concurrency-dashboard"><b>Concurrency Dashboard</b></a><br>
 A lab for modern Swift concurrency, streaming Combine publishers into async/await.<br>
 <sub>Swift Concurrency · Combine</sub>
