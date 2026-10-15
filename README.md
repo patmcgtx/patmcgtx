@@ -4,8 +4,6 @@
 SwiftUI architecture, rapid prototyping, and AI-assisted development.
 I turn ambiguous ideas into working apps, from an augmented-reality app in 2011 to my current experiments.
 
-[LinkedIn](https://www.linkedin.com/in/patmcgtx/)
-
 ## Current personal projects
 
 <table>
@@ -72,5 +70,7 @@ A math flash cards app, and my first Swift project.<br>
 </table>
 
 ## More
+
+[LinkedIn](https://www.linkedin.com/in/patmcgtx/)
 
 Beyond code: I [take pictures](https://www.instagram.com/patmcgtx/) and [make music](https://mentalbreaktown.blog/category/songs/).
