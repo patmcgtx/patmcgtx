@@ -71,14 +71,6 @@ A math flash cards app, and my first Swift project.<br>
 </tr>
 </table>
 
-
-## Professional mobile app experience, 2014–present
-
-| | |
-|---|---|
-| **Charles Schwab** · 2020–present <br/>[App Store](https://apps.apple.com/us/app/schwab-mobile/id407358186) | Leading iOS for a mobile team in a 500,000+ line codebase: modernizing architecture with SwiftUI and async/await, building features end to end (stock option chains with live-streaming quotes, a new-client welcome experience), and mentoring engineers.<br><sub>Swift · SwiftUI · UIKit · Swift Concurrency</sub> |
-| **Whole Foods Market / Amazon** · 2014–2020 <br/> [App Store](https://apps.apple.com/us/app/whole-foods-market/id320029256) | Lead iOS developer on the Whole Foods side of a major app rewrite: shopping list, digital coupons, loyalty program, user registration and the Apple Watch app.<br><sub>Swift · Objective-C · Apple Watch</sub> |
-
 ## More
 
 Beyond code: I [take pictures](https://www.instagram.com/patmcgtx/) and [make music](https://mentalbreaktown.blog/category/songs/).
