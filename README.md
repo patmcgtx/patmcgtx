@@ -15,6 +15,7 @@ I turn ambiguous ideas into working apps, from an augmented-reality app in 2011 
 <a href="https://github.com/patmcgtx/daily-flight-plan"><b>Daily Flight Plan</b></a><br>
 A daily planning app that grew out of a Day One template I refined for years. Sketched in Figma, built AI-first with a Claude agent, and redesigned as a paper flight plan.<br><br>
 <sub>SwiftUI · SwiftData · CloudKit · Foundation Models</sub><br><br>
+<a href="https://github.com/patmcgtx/daily-flight-plan/actions/workflows/tests.yml"><img src="https://github.com/patmcgtx/daily-flight-plan/actions/workflows/tests.yml/badge.svg?branch=main" alt="Daily Flight Plan unit tests"></a><br><br>
 <a href="https://github.com/patmcgtx/daily-flight-plan/blob/main/DailyFlightPlan/docs/story.md">Read the story &rarr;</a>
 </td>
 </tr>
@@ -26,6 +27,7 @@ A daily planning app that grew out of a Day One template I refined for years. Sk
 <a href="https://github.com/patmcgtx/mapplus"><b>Map Plus</b></a><br>
 Started as a simple maps app for a friend's kids, and became my hand-coded architecture sandbox.<br><br>
 <sub>SwiftUI · SwiftData · MapKit · Foundation Models</sub><br><br>
+<a href="https://github.com/patmcgtx/mapplus/actions/workflows/tests.yml"><img src="https://github.com/patmcgtx/mapplus/actions/workflows/tests.yml/badge.svg?branch=main" alt="Map Plus unit and nightly UI tests"></a><br><br>
 <a href="https://github.com/patmcgtx/mapplus">See the project &rarr;</a>
 </td>
 <td width="45%" align="center" valign="middle">
